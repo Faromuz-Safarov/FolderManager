@@ -13,5 +13,4 @@ Watch an Youtube Video for Help!
 
 You have to Manually delete the old folder parent (the folder which you created dmg)
 
-Your hidiutil is located in /usr/bin/hdiutil named Private. Noted: Private can be opened without an password
 
