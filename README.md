@@ -12,5 +12,3 @@ Commands:
 Watch an Youtube Video for Help!
 
 You have to Manually delete the old folder parent (the folder which you created dmg)
-
-
